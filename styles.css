@@ -17,7 +17,7 @@ img.center {
 h1{text-align: center;}
 p{font-size: 14px;}
 aside nav a{
-    display: block;
+    text-align: center;
 }
 footer{
     text-align: center;
