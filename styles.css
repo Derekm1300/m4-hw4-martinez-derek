@@ -19,5 +19,9 @@ p{font-size: 14px;}
 aside nav a{
     display: block;
 }
+footer{
+    text-align: center;
+    margin: 35px;
+}
 
 
