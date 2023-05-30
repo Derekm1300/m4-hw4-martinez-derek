@@ -17,12 +17,14 @@ img.center {
 h1{text-align: center;}
 p{font-size: 14px;}
 aside nav a{
-    display: block;
     text-align: center;
 }
 footer{
     text-align: center;
     margin: 35px;
 }
-
+section.banner{
+    text-align: center;
+    background-image: url("https://cdn.wallpapersafari.com/39/33/N0r6Lt.jpg");
+}
 
